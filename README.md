@@ -1,2 +1,2 @@
 # mouseFindr
-Enlarges mouse on Windows if user shakes mouse
+Enlarges the mouse on Windows if the user shakes the mouse
